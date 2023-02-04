@@ -1,5 +1,5 @@
 # Photo Filter Appp
-Name : Maslax 
+Name : Maslah Yusuf Abshir 
 Class : CA194
 
 ## Introduction:
